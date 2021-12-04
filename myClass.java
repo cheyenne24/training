@@ -1,10 +1,9 @@
 public class myClass {
-   static int i = 15;
-public static void coding() {
-    System.out.println(i);
+    int a = 5;
+public void coding() {
+    System.out.println(a);
 }
 public static void main (String[] args) {
     coding();
 }
-
 }
